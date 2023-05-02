@@ -3,16 +3,28 @@ body {
 	background-size: contain;
 }
 
-.list{
-	color: #633225;
-}
+body{width: 800px;}
+
+.list li:nth-child(even){color: black}
+
+.list{color: #633225;}
+h1{text-align: center;}
 h2{color: #86341E}
 h1{color: #86341E}
 h3{color: #86341E}
 div,p{color: #86341E}
 table{color: #86341E; font-style: italic;}
+select{color: #86341E;}
 
 
+a:hover{color: green;}
+
+/* .main {
+	padding: 1%; border: 1px solid black; width: 70%;
+} */
+
+p{height: 80px; border-left: 2px dotted darkred; padding-left: 10px; margin-left: 10px; 
+	border-right: 2px dotted darkred; padding-right: 10px; margin-right: 10px;}
 
 /* nav{background-color: white} */
 
