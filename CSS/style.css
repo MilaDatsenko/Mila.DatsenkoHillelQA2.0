@@ -1,0 +1,18 @@
+body {
+	background-image: url(images/back.jpeg);
+	background-size: contain;
+}
+
+.list{
+	color: #633225;
+}
+h2{color: #86341E}
+h1{color: #86341E}
+h3{color: #86341E}
+div,p{color: #86341E}
+table{color: #86341E; font-style: italic;}
+
+
+
+/* nav{background-color: white} */
+
